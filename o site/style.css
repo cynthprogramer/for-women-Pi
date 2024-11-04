@@ -1,0 +1,31 @@
+*{
+    background-color: rgba(49, 25, 80, 1);
+}
+
+#r1 {
+    color: rgba(255, 191, 191, 1)
+}
+
+#w1 {
+    color: rgba(255, 249, 249, 1);
+}
+
+.container1{
+    display: inline-block;
+    width: 40%;
+    height: 400%;
+    padding: 100px;
+    margin:20%;
+    margin-top: 10%;
+    border: 4px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: rgba(255, 249, 249, 1);
+    text-align: center;
+    background-color: rgba(84, 37, 98, 0.8);
+
+}
+
+#form{
+    color: rgba(255, 249, 249, 1);
+}
