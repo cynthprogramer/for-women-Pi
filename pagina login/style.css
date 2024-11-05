@@ -1,0 +1,65 @@
+body{
+    background-color: rgba(49, 25, 80, 1);
+}
+
+#r1 {
+    color: rgba(255, 191, 191, 1);
+    
+}
+
+#w1 {
+    color: rgba(255, 249, 249, 1);
+}
+
+.container1{
+    display: inline-block;
+    width: 10%;
+    height: 400%;
+    padding: 100px;
+    margin:20%;
+    margin-top: 10%;
+    border: 4px;
+    border-radius: 6px;
+    cursor: pointer;
+    color: rgba(255, 249, 249, 1);
+    text-align: left;
+    background-color: rgba(84, 37, 98, 0.8);
+
+}
+.container2{
+    display: inline-block;
+    margin-left: 10%;
+    border: 2px;
+    padding: 80px;
+    width: 20%;
+    cursor: pointer;
+    
+}
+
+.container3{
+    display: inline-block;
+    width: 10%;
+    height: 400%;
+    padding: 100px;
+    margin:20%;
+    margin-top: 10%;
+    border: 4px;
+    border-radius: 6px;
+    cursor: pointer;
+    color: rgba(255, 249, 249, 1);
+    text-align: left;
+    background-color: rgba(84, 37, 98, 0.8);
+
+}
+
+#form{
+    color: rgba(255, 249, 249, 1);
+}
+
+#botao{
+    color:rgba(255, 191, 191, 1);
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    align-content: left;
+}
